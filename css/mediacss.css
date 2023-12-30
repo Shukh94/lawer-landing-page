@@ -1,0 +1,40 @@
+@media only screen and (max-width: 1320px) {
+  .header {
+    width: 100%;
+  }
+  .hero-text {
+    padding-right: 20px;
+  }
+
+  .hero-title {
+    font-size: 60px;
+  }
+
+  .hero-p {
+    font-size: 18px;
+  }
+
+  .hero-btn {
+    border-radius: 6px;
+    padding: 16px 20px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .company-p {
+    font-size: 18px;
+  }
+
+  .hero-img img {
+    width: 400px;
+  }
+}
+
+@media only screen and (max-width: 1140px) {
+}
+@media only screen and (max-width: 960px) {
+}
+@media only screen and (max-width: 720px) {
+}
+@media only screen and (max-width: 540px) {
+}
