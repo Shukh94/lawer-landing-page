@@ -493,7 +493,7 @@
     display: block;
   }
   .services-text {
-    width: 80%;
+    width: 50%;
     display: block;
     margin: auto;
     padding: 0;
@@ -513,7 +513,15 @@
   .services-info {
     display: block;
     margin: auto;
-    width: 400px;
+    width: 300px;
+    padding-right: 0;
+  }
+
+  .single-service {
+  }
+
+  .single-service-colm {
+    margin-right: 0;
   }
 
   .single-service svg {
