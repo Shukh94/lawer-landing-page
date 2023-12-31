@@ -82,10 +82,12 @@ nav {
   display: flex;
   justify-content: space-between;
   padding-top: 80px;
+  padding-right: 0;
 }
 
 .hero-text {
   padding-right: 50px;
+  width: 790px;
 }
 
 .hero-title {
@@ -125,7 +127,7 @@ nav {
 }
 
 .hero-company {
-  margin-top: 100px;
+  margin-top: 85px;
 }
 
 .company-p {
@@ -199,16 +201,10 @@ nav {
 .single-service {
   height: 220px;
   padding: 24px;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 10px;
-  flex-shrink: 0;
   border-radius: 8px;
   background: rgb(252, 252, 252);
   box-shadow: rgba(0, 0, 0, 0.06) 0px 18px 58px 16px;
   margin-bottom: 20px;
-  /* margin-right: 20px; */
-  justify-content: space-around;
 }
 
 .single-service svg {
