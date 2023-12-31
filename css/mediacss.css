@@ -694,9 +694,8 @@
   }
 }
 
-@media only screen and (max-width: 767px) and (min-width: 412px) {
-  .hero-area {
-    text-align: center;
-    width: 100%;
+@media only screen and (max-width: 640px) and (min-width: 412px) {
+  .hero-img img {
+    display: none;
   }
 }
